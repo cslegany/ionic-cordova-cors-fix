@@ -1,4 +1,4 @@
-# based on: https://www.youtube.com/watch?v=FXpwVLiKowc
+# based on https://www.youtube.com/watch?v=FXpwVLiKowc
 
 ionic cordova plugin add cordova-plugin-advanced-http
 
