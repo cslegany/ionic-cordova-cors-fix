@@ -1,0 +1,7 @@
+{
+  "name": "ionic-cordova-cors-fix",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
